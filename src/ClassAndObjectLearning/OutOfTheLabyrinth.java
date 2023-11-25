@@ -1,5 +1,7 @@
 package ClassAndObjectLearning;
 import java.util.Scanner;
+// 注:此程序还未写完
+// Note: This program has not been completed yet
 public class OutOfTheLabyrinth {
     public static void main(String[] args){
         Labyrinth ObstaclesNumber_1 =new Labyrinth();
